@@ -1,6 +1,11 @@
-# 💫 About Me:
-# 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>- Event Management System for Photography Teams<br>- Salesforce Development & Apex<br><br>👯 I’m looking to collaborate on<br>- Web Development Projects<br>- Open Source Projects<br>- Salesforce Projects<br>- Database Management <br><br>🤝 I’m looking for help with<br>- Advanced Salesforce Development<br>- Full Stack Development<br>- System Design<br><br>🌱 I’m currently learning<br>- Salesforce (Apex, Triggers, LWC)<br>- Java<br>- Full Stack Web Development<br>- Git & GitHub<br><br>💬 Ask me about<br>- Java<br>- Salesforce<br>- HTML, CSS, JavaScript<br>- Web Development<br>- SQL<br><br>⚡ Fun fact<br>- I love building real-world projects that solve actual problems.<br>- I enjoy photography 📸.
+## 👋 About Me
 
+- 🔭 I'm currently working on: Event Management System for Photography Teams, Salesforce Development & Apex
+- 👯 I'm looking to collaborate on: Web Development & Open Source Projects
+- 🤝 I'm looking for help with: Advanced Salesforce Development
+- 🌱 I'm currently learning: Salesforce, Java, Full Stack Development
+- 💬 Ask me about: Java, Salesforce, HTML, CSS, JavaScript
+- ⚡ Fun fact: I love building real-world projects and enjoy photography. 📸
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhi-gupta-533015383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhigupta713@gmail.com ) 
